@@ -1,5 +1,7 @@
 package design_patterns.observer;
 
+import java.io.BufferedInputStream;
+import java.io.FileInputStream;
 import java.util.ArrayList;
 import java.util.List;
 
